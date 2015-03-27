@@ -1,0 +1,11 @@
+<repast.simphony.data2.engine.FileSinkDescriptor>
+  <name>S</name>
+  <dataSet>A Data Set</dataSet>
+  <delimiter>,</delimiter>
+  <format>TABULAR</format>
+  <sourceIds class="linked-hash-set">
+    <string>S</string>
+  </sourceIds>
+  <fileName>S.txt</fileName>
+  <addTimeStamp>true</addTimeStamp>
+</repast.simphony.data2.engine.FileSinkDescriptor>
